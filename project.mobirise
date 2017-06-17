@@ -10,7 +10,7 @@
         "secondaryColor": "#2969b0",
         "successColor": "#ffffff",
         "infoColor": "#7e9b9f",
-        "warningColor": "#fac51c",
+        "warningColor": "#2969b0",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 27,
+    "uniqCompNum": 36,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/imag0545-128x96.png",
     "noImageResize": ""
@@ -177,7 +177,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">1.  \t第1576期 大學報10/17-10/24: 太陽能照明燈　V型結構「增」耀眼</span><br></p><p>http://uonlineblog.blogspot.com/2014/10/v.html</p><p><br></p><p>2.  \t第1578期 大學報10/31-11/7: 拼貼記憶片段　《馬賽克日常》上演多元情愛</p><p>http://uonlineblog.blogspot.com/2014/10/blog-post_936.html</p><p><br></p><p>3.  \t第1578期 大學報10/31-11/7: 營造慢調生活 「小建築」妝點台北街頭&nbsp;</p><p>http://uonlineblog.blogspot.com/2014/10/blog-post_424.html</p><p><br></p><p>4.  \t第1580期 大學報11/14-11/21:手環感測胎心音　雲端記錄助產檢</p><p>http://uonlineblog.blogspot.com/2014/11/blog-post_808.html</p><p><br></p><p>5.      第1580期 大學報11/14-11/21: 李彥蓁銅版畫刻留日生活&nbsp;</p><p>http://uonlineblog.blogspot.com/2014/11/blog-post_7.html</p><p><br></p>",
-          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;6</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">.  \t第1581期 大學報11/21-11/28 : 信宿命論避現實　《求神問卜》諷人心&nbsp;</span></p><p>http://uonlineblog.blogspot.com/2014/11/blog-post_530.html</p><p>&nbsp;</p><p>7.   第1584期 大學報12/12-12/19:白晝勸世夜荒淫　仙境諷現實差距</p><p>http://uonlineblog.blogspot.com/2014/12/blog-post_83.html</p><p><br></p><p>8.   第1585期 大學報12/19-12/26: 礦岩作顏料　敦煌菩薩現身漫畫</p><p>http://uonlineblog.blogspot.com/2014/12/blog-post_510.html</p><p>9. [專題]【建築綠起來　學生實作行不行一】校園建築　落實綠能概念(合稿)</p><p>http://uonlineblog.blogspot.com/2014/11/blog-post_980.html</p><p><br></p><p>10.   政大學聲 No.7(P.17,P.26~31) (建議使用Chrome開啟)</p><p>http://issuu.com/nccuvos/docs/nccuvos7</p><p><br></p><p>11.   政大學聲 No.8(P.16~17,P20~25) (建議使用Chrome開啟)</p><p>http://issuu.com/nccuvos/docs/nccuvos8</p><p><br></p>"
+          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;6</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">.  \t第1581期 大學報11/21-11/28 : 信宿命論避現實　《求神問卜》諷人心&nbsp;</span></p><p>http://uonlineblog.blogspot.com/2014/11/blog-post_530.html</p><p>&nbsp;</p><p>7.   第1584期 大學報12/12-12/19:白晝勸世夜荒淫　仙境諷現實差距</p><p>http://uonlineblog.blogspot.com/2014/12/blog-post_83.html</p><p><br></p><p>8.   第1585期 大學報12/19-12/26: 礦岩作顏料　敦煌菩薩現身漫畫</p><p>http://uonlineblog.blogspot.com/2014/12/blog-post_510.html</p><p><br></p><p>9. [專題]【建築綠起來　學生實作行不行一】校園建築　落實綠能概念(合稿)</p><p>http://uonlineblog.blogspot.com/2014/11/blog-post_980.html</p><p><br></p><p>10.   政大學聲 No.7(P.17,P.26~31) (建議使用Chrome開啟)</p><p>http://issuu.com/nccuvos/docs/nccuvos7</p><p><br></p><p>11.   政大學聲 No.8(P.16~17,P20~25) (建議使用Chrome開啟)</p><p>http://issuu.com/nccuvos/docs/nccuvos8</p><p><br></p>"
         },
         {
           "_name": "footer1",
@@ -425,7 +425,7 @@
           "_styles": {
             "DIV": {
               "font-size": "18px",
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_anchor": "image2-f",
