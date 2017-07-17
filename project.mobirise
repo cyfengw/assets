@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 36,
+    "uniqCompNum": 37,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/imag0545-128x96.png",
     "noImageResize": ""
@@ -366,8 +366,8 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_styles": {
             ".btn": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             ".mbr-section-title": {
               "color": "#2969b0"
@@ -398,7 +398,7 @@
           },
           "title": "FCY GALLERY",
           "text": "這裡包含了我的文字、平面、影音及網頁相關作品!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#msg-box1-h\" data-toolbar=\"-mbrBtnMove\">文字作品</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#features6-5\" data-toolbar=\"-mbrBtnMove\">平面作品</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#header4-0\" data-toolbar=\"-mbrBtnMove\">影音作品</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#features3-j\" data-toolbar=\"-mbrBtnMove\">網頁開發</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#msg-box1-h\" data-toolbar=\"-mbrBtnMove\">文字作品</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#features6-5\" data-toolbar=\"-mbrBtnMove\">平面作品</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#header4-0\" data-toolbar=\"-mbrBtnMove\">影音作品</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#features3-j\" data-toolbar=\"-mbrBtnMove\">網頁開發</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#features3-j\" data-toolbar=\"-mbrBtnMove\">RWD網頁作品</a>  "
         },
         {
           "_name": "footer1",
@@ -473,7 +473,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "2",
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -520,10 +520,10 @@
               "active": true
             }
           },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "title3": "<font color=\"#000000\">RWD網頁作品</font>",
+          "subtitle3": "<font color=\"#000000\">曾為公司網站設計適宜各種螢幕尺寸的響應式網頁。</font>",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://fongyuinvest.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">投資公司</a> <a data-app-btn=\"true\" href=\"https://www.9thflr.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">科技公司</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
